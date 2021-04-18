@@ -1,0 +1,2 @@
+# gocqutil
+parser for gocq
